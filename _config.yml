@@ -104,8 +104,3 @@ theme: minimalism
 deploy:
   type: ''
 
-
-admin:
-  username: cocr
-  password_hash: $2a$10$1ssc7MffeCqt12Ko1RRqG.I0cRDNrRkh7DG2lpvgdB4cBLKtMv0fe
-  secret: my super secret phrase
